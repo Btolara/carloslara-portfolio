@@ -22,7 +22,7 @@ export default function Home() {
 
         <h2
           className="mt-16 select-none text-center font-bold leading-[0.85] text-white"
-          style={{ fontSize: "clamp(56px, 14vw, 220px)" }}
+          style={{ fontSize: "clamp(32px, 7vw, 120px)" }}
         >
           CARLOS LARA
         </h2>
